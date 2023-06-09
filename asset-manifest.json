@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/ProjectThree/static/css/main.6a37edae.css",
-    "main.js": "/ProjectThree/static/js/main.d3813ea2.js",
+    "main.css": "/ProjectThree/static/css/main.d0ffe6f8.css",
+    "main.js": "/ProjectThree/static/js/main.36b1411b.js",
     "static/js/787.f6b2eaaf.chunk.js": "/ProjectThree/static/js/787.f6b2eaaf.chunk.js",
     "static/media/paymentsImg.png": "/ProjectThree/static/media/paymentsImg.4272e537c6ad77f892f2.png",
     "static/media/trusted9.svg": "/ProjectThree/static/media/trusted9.5d3eee2a405f84c610eeeaf0596d2a22.svg",
+    "static/media/clients3.jpg": "/ProjectThree/static/media/clients3.cd3bcf45c57d19f2df92.jpg",
     "static/media/trusted1.svg": "/ProjectThree/static/media/trusted1.882e7d4378e5419a3de4c1c4d1b904f6.svg",
+    "static/media/clients5.jpg": "/ProjectThree/static/media/clients5.82f6ebd78b3e33fd2674.jpg",
     "static/media/trusted6.svg": "/ProjectThree/static/media/trusted6.1c382a13484693c8f398d50e30961b9e.svg",
+    "static/media/clients1.jpg": "/ProjectThree/static/media/clients1.9db3c46d515aa1adb535.jpg",
+    "static/media/clients7.jpg": "/ProjectThree/static/media/clients7.11b9c068cc710d037433.jpg",
+    "static/media/clients2.jpg": "/ProjectThree/static/media/clients2.2ec18d72c66061431967.jpg",
+    "static/media/clients6.jpg": "/ProjectThree/static/media/clients6.26f6f19da5989f46b1f8.jpg",
     "static/media/trusted7.svg": "/ProjectThree/static/media/trusted7.331531bbdd107930ef33b5f1745f0223.svg",
+    "static/media/clients8.jpg": "/ProjectThree/static/media/clients8.089ca28451fe1e5b80dd.jpg",
+    "static/media/clients4.jpg": "/ProjectThree/static/media/clients4.9264370c51880a3eef1b.jpg",
     "static/media/trusted10.svg": "/ProjectThree/static/media/trusted10.6f8b7bed06dbf27494c23333fe837f15.svg",
     "static/media/trusted5.svg": "/ProjectThree/static/media/trusted5.d60aef56a8e5387cbe8d264b9db2f623.svg",
     "static/media/trusted3.svg": "/ProjectThree/static/media/trusted3.a644c77ef68906b524a4dbe029d16cdc.svg",
@@ -15,12 +23,12 @@
     "static/media/trusted2.svg": "/ProjectThree/static/media/trusted2.7039ac9d71f65ce74e3f82014778e75e.svg",
     "static/media/trusted8.svg": "/ProjectThree/static/media/trusted8.24343a7068095e7d005b581385261782.svg",
     "index.html": "/ProjectThree/index.html",
-    "main.6a37edae.css.map": "/ProjectThree/static/css/main.6a37edae.css.map",
-    "main.d3813ea2.js.map": "/ProjectThree/static/js/main.d3813ea2.js.map",
+    "main.d0ffe6f8.css.map": "/ProjectThree/static/css/main.d0ffe6f8.css.map",
+    "main.36b1411b.js.map": "/ProjectThree/static/js/main.36b1411b.js.map",
     "787.f6b2eaaf.chunk.js.map": "/ProjectThree/static/js/787.f6b2eaaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a37edae.css",
-    "static/js/main.d3813ea2.js"
+    "static/css/main.d0ffe6f8.css",
+    "static/js/main.36b1411b.js"
   ]
 }
