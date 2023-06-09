@@ -12,12 +12,19 @@ li {
   list-style: none;
 }
 
+button {
+  border: none;
+  background-color: transparent;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
+  color: black;
 }
 
 .container {
-  max-width: 1110px;
+  max-width: 1115px;
   padding: 0 15px;
   margin: 0 auto;
 }
+

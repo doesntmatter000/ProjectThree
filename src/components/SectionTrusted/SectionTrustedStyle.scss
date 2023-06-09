@@ -1,0 +1,34 @@
+@import "./src/variabiles/colors/colors";
+
+.trusted {
+  background-color: #FAF9FA;
+}
+
+.trusted__title {
+  margin-top: 50px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 28px;
+  color: $primaryColor;
+}
+
+.trusted__container {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 70px;
+  justify-content: center;
+  row-gap: 39px;
+}
+
+@media screen and (max-width: 570px) {
+  .trusted__container {
+    row-gap: 25px;
+  }
+
+  .trusted__title {
+    font-size: 23px;
+    margin-top: 10px;
+  }
+}

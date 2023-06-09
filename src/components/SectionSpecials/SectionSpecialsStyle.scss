@@ -1,0 +1,116 @@
+@import "src/variabiles/colors/colors";
+
+.special {
+  padding-top: 200px;
+  padding-bottom: 110px;
+}
+
+.special__container {
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 50px;
+  column-gap: 20px;
+  align-items: center;
+}
+
+.special__item {
+  width: 32%;
+  padding: 60px 40px 90px 40px;
+  background: #FFFFFF;
+  border: 1px solid #EFEFF4;
+  border-radius: 8px;
+
+  &:hover {
+    border-color: transparent;
+  }
+
+  &:hover .item__icon {
+    background: #ffffff;
+    box-shadow: 0px 6px 15px rgba(35, 36, 39, 0.15);
+  }
+}
+
+.special__item-special {
+  width: 32%;
+  padding: 60px 40px 90px 40px;
+  background: #FFFFFF;
+}
+
+.item__icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 77px;
+  height: 77px;
+  border-radius: 50%;
+  transition: .3s ease;
+}
+
+.item__title {
+  color: $primaryColor;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 18px;
+  margin-top: 40px;
+}
+
+.item__text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: $secondaryColor;
+  margin-top: 16px;
+}
+
+@media screen and (max-width: 1030px) {
+  .special__item {
+    width: 48%;
+  }
+  .special__item-special {
+    width: 48%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+
+  .special__container {
+    justify-content: center;
+  }
+  .special__item {
+    width: 60%;
+  }
+  .special__item-special {
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .special {
+    margin-top: 1px;
+  }
+
+  .special__container {
+    gap: 10px;
+  }
+  .special__item {
+    width: 100%;
+  }
+
+  .item__title {
+    font-size: 16px;
+  }
+  .item__text {
+    font-size: 12px;
+  }
+
+  .item__text-special {
+    font-size: 12px;
+  }
+  .special__item-special {
+    width: 100%;
+  }
+}
+
